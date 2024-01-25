@@ -23,5 +23,5 @@ Informo que atualmente não atuo na área de Dev. porém, venho almejando ingres
 Faz quase 3 mêses que realizei um curso presencial pelo SENAI de Desenvolvedor Java.. <br/>
 Com isso, realizo cursos ON de front-end e Full-Stack, fazendo de tudo para me capacitar.. <br/>
 Busco uma oportunidade para consilidar os meus conhecimentos e aprender em si com a empresa.. <br/>
-💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣
+💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣
 
