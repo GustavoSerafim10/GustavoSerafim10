@@ -20,8 +20,10 @@
 </div><br/>
 
 ## Algumas informações sobre mim:
-Informo que atualmente não atuo na área de Dev. porém, venho almejando ingressar nessa área..<br/>
-Com isso, realizo cursos ON de front-end e Full-Stack, fazendo de tudo para me capacitar.. <br/>
-Busco uma oportunidade para consilidar os meus conhecimentos e aprender em si com a empresa.. <br/>
+Com sólida experiência na área de suporte e uma crescente paixão por
+desenvolvimento web, busco uma transição para a área de Front-end. Visando
+aplicar meus conhecimentos adquiridos. Acredito que minha capacidade de
+adaptação e meu entusiasmo por novos desafios serão valiosos para qualquer
+equipe.
 💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣
 
