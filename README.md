@@ -35,6 +35,39 @@ Minha experiência anterior em infraestrutura me permite enxergar software não 
 
 # ⭐ Projetos em Destaque
 
+## 👨‍💻 Portfólio Profissional
+
+### Currículo & Portfólio Interativo
+
+Website desenvolvido para apresentar minha trajetória profissional, experiências em Tecnologia da Informação, competências técnicas e projetos de desenvolvimento de forma mais moderna e interativa do que um currículo tradicional.
+
+O projeto centraliza minha evolução profissional, passando por suporte técnico, redes, infraestrutura e governança de TI até desenvolvimento de software.
+
+**Principais recursos:**
+
+- Apresentação profissional
+- Histórico de experiências
+- Formação acadêmica
+- Stack de tecnologias
+- Projetos desenvolvidos
+- Links para GitHub e LinkedIn
+- Interface responsiva
+- Identidade visual própria
+- Navegação focada em recrutadores
+
+🔗 [Ver projeto no GitHub](LINK_DO_REPOSITORIO)
+🌐 [Acessar portfólio](LINK_DO_SITE)
+
+## 📋 Mini Kanban — Desafio Técnico (Veritas Consultoria)
+### Sistema de gerenciamento de tarefas estilo Kanban, full stack.
+
+Desafio prático desenvolvido para processo seletivo de estágio Full Stack, com **frontend em React** e **backend em Go**. Projeto com foco em organização de tarefas por colunas/status, persistência de dados e integração entre front e back.
+
+**Tecnologias**
+`React` `Go` `REST API`
+
+🔗 [Ver projeto no GitHub](https://github.com/GustavoSerafim10/desafio-fullstack-veritas)
+
 ## 🌌 Nightfolio
 
 ### Controle financeiro pessoal com experiência visual imersiva.
