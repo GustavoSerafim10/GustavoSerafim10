@@ -44,6 +44,7 @@ Sistema de chamados inspirado na minha experiência em suporte e governança de 
 `Java 21` `Spring Boot 3` `PostgreSQL` `Flyway` `Docker` `JUnit 5` `Testcontainers` `React`
 
 🔗 [Ver projeto no GitHub](https://github.com/GustavoSerafim10/serviceflow)
+🌐 [Abrir demo](https://gustavoserafim10.github.io/serviceflow/) · 📄 [Estudo de caso](https://github.com/GustavoSerafim10/serviceflow/blob/main/docs/estudo-de-caso.md)
 
 ## 📋 Mini Kanban — Desafio Técnico (Veritas Consultoria)
 ### Sistema de gerenciamento de tarefas estilo Kanban, full stack.
@@ -123,3 +124,4 @@ Decision
 ```
 
 🔗 [Ver projeto no GitHub](https://github.com/GustavoSerafim10/ProjetoQuantiFy)
+🌐 [Abrir app](https://gustavoserafim10.github.io/ProjetoQuantiFy/)
