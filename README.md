@@ -35,28 +35,15 @@ Minha experiência anterior em infraestrutura me permite enxergar software não 
 
 # ⭐ Projetos em Destaque
 
-## 👨‍💻 Portfólio Profissional
+## 🛠️ ServiceFlow
+### API de gestão de chamados de TI (ITSM) com controle de SLA.
 
-### Currículo & Portfólio Interativo
+Sistema de chamados inspirado na minha experiência em suporte e governança de TI. Inclui autenticação JWT com refresh token, permissões por papel (ADMIN, TÉCNICO, SOLICITANTE), cálculo automático de prazo de SLA, histórico de auditoria e indicadores como MTTR e conformidade de SLA.
 
-Website desenvolvido para apresentar minha trajetória profissional, experiências em Tecnologia da Informação, competências técnicas e projetos de desenvolvimento de forma mais moderna e interativa do que um currículo tradicional.
+**Tecnologias**
+`Java 21` `Spring Boot 3` `PostgreSQL` `Flyway` `Docker` `JUnit 5` `Testcontainers` `React`
 
-O projeto centraliza minha evolução profissional, passando por suporte técnico, redes, infraestrutura e governança de TI até desenvolvimento de software.
-
-**Principais recursos:**
-
-- Apresentação profissional
-- Histórico de experiências
-- Formação acadêmica
-- Stack de tecnologias
-- Projetos desenvolvidos
-- Links para GitHub e LinkedIn
-- Interface responsiva
-- Identidade visual própria
-- Navegação focada em recrutadores
-
-🔗 [Ver projeto no GitHub](LINK_DO_REPOSITORIO)
-🌐 [Acessar portfólio](LINK_DO_SITE)
+🔗 [Ver projeto no GitHub](https://github.com/GustavoSerafim10/serviceflow)
 
 ## 📋 Mini Kanban — Desafio Técnico (Veritas Consultoria)
 ### Sistema de gerenciamento de tarefas estilo Kanban, full stack.
@@ -91,6 +78,7 @@ Aplicação web desenvolvida para gerenciamento financeiro, permitindo acompanha
 `React` `TypeScript` `Vite` `Recharts` `Framer Motion`
 
 🔗 [Ver projeto no GitHub](https://github.com/GustavoSerafim10/CadernoFinancas)
+🌐 [Abrir demo](https://gustavoserafim10.github.io/CadernoFinancas/)
 
 ---
 
@@ -131,3 +119,7 @@ Risk
 Ranking
    ↓
 Decision
+
+```
+
+🔗 [Ver projeto no GitHub](https://github.com/GustavoSerafim10/ProjetoQuantiFy)
